@@ -1,0 +1,22 @@
+// This is the template css that came with the boilerplate code.
+@import "base-template-css/variables"; 
+@import "base-template-css/mixins/transparency";
+@import "base-template-css/mixins/vendor-prefixes";
+@import "base-template-css/mixins/labels";
+@import "base-template-css/mixins/navbars";
+@import "base-template-css/mixins/icons";
+@import "base-template-css/mixins/cards";
+@import "base-template-css/mixins/chartist";
+@import "base-template-css/mixins/sidebar";
+@import "base-template-css/typography";
+@import "base-template-css/sidebar-and-main-panel"; 
+@import "base-template-css/alerts";
+@import "base-template-css/navbars";
+@import "base-template-css/footers";
+@import "base-template-css/responsive";
+@import "base-template-css/cards";
+@import "base-template-css/chartist";
+
+//This is custom styling that adheres to the CTL style guide css
+@import "custom-css/global";
+
